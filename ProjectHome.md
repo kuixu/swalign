@@ -1,0 +1,1 @@
+This is a simple Smith-Waterman implementation in C
